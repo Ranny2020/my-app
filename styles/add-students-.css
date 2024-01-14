@@ -1,0 +1,244 @@
+
+html {
+	font-size:280%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+    height: 100vh;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+}.add-students--wzs {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #99d1ac;
+}
+.add-students--wzs .auto-group-w9dd-W2P {
+  margin-bottom: 3.8rem;
+  box-sizing: border-box;
+  padding: 1.9rem 2.3rem 0.407rem 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #597662;
+  flex-shrink: 0;
+}
+.add-students--wzs .auto-group-w9dd-W2P .sch-logo-2-DSb {
+  margin-right: 0.9rem;
+  width: 3rem;
+  height: 2.8929rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.add-students--wzs .auto-group-w9dd-W2P .e-logbook-khR {
+  margin: 0.007rem 19rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #0e4120;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-students--wzs .auto-group-w9dd-W2P .vector-4TD {
+  margin-bottom: 0.0929rem;
+  width: 1.3rem;
+  height: 1rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.add-students--wzs .add-students-zLs {
+  margin: 0rem 0.4rem 3.5rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #072f14;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-students--wzs .name-vEX {
+  margin-right: 24.5rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: rgba(7, 47, 20, 0.9399999976);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-students--wzs .auto-group-cp7z-Fnb {
+  box-sizing: border-box;
+  padding: 0.4rem 3.6rem 15.5rem 3.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.add-students--wzs .auto-group-cp7z-Fnb .registration-number-taf {
+  margin: 0rem 17.1rem 0.4rem 0rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: rgba(7, 47, 20, 0.9399999976);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.add-students--wzs .auto-group-cp7z-Fnb .siwes-industry-location-w39 {
+  margin: 0rem 15.2rem 0.4rem 0rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: rgba(7, 47, 20, 0.9399999976);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.add-students--wzs .auto-group-cp7z-Fnb .industy-supervisor-yVd {
+  margin: 0rem 17.9rem 0.4rem 0rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: rgba(7, 47, 20, 0.9399999976);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.add-students--wzs .auto-group-cp7z-Fnb .school-supervisor-RMd {
+  margin: 0rem 18.3rem 0.4rem 0rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: rgba(7, 47, 20, 0.9399999976);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.add-students--wzs .auto-group-cp7z-Fnb .siwes-co-ordinator-tFD {
+  margin: 0rem 17.6rem 0.4rem 0rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: rgba(7, 47, 20, 0.9399999976);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.add-students--wzs .auto-group-cp7z-Fnb .save-button-vSo {
+  margin: 0rem 10.4rem 0rem 10.2rem;
+  box-sizing: border-box;
+  padding: 0.8rem 2.1rem 0.7rem 2.1rem;
+  width: calc(100% - 20.6rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.2rem #1b7b3b;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.add-students--wzs .auto-group-cp7z-Fnb .save-button-vSo .save-po5 {
+  margin-right: 0.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #0e4120;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-students--wzs .auto-group-cp7z-Fnb .save-button-vSo .icons8-enter-50-3-xPV {
+  margin-bottom: 0.1rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.head{
+  color: #0e4120;
+font-family: sans-serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+text-align: center;
+margin-top: 38px;
+margin-bottom: 70px;
+}
+.screen-area{
+  width: 90%;
+   display: flex;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 6%;
+  
+}
+input[type=text]{
+   width: 80%;
+height: 40px;
+flex-shrink: 0;
+border-radius: 10px;
+background: rgba(255, 255, 255, 0.911);
+margin-left: 10%;
+margin-right:10%;
+margin-bottom: 30px;
+margin-top: 5px;
+border: none;
+outline: none;
+padding: 5px 14px 5px 14px;
+box-sizing: border-box;
+transition: 0.5s;
+letter-spacing: 1px;
+}
+input[type=text]:focus{
+    height: 55px;
+    transition: 0.5s;
+}
+input[type=submit]{
+    border-radius: 3px;
+background: #FFF;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+width: 30%;
+height: 41px;
+border-radius: 7px;
+margin-left: 35%;
+margin-right:35%;
+color: #0F4220;
+font-family: sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+border: none;
+transition: 0.3s;
+margin-bottom: 40px;
+}
+input[type=submit]:hover{
+   font-size: 16px;
+    transition: 0.3s;
+    background: #ffffffb9;
+}

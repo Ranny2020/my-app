@@ -1,0 +1,181 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.staff-dashboard--VCX {
+  display: flex;
+  flex-direction: column;
+  background-color: #99d1ac;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+
+  .auto-group-q2ct-qGP {
+    background-color: #22a74f;
+    flex-shrink: 0;
+    margin-bottom: 3.3rem;
+    box-sizing: border-box;
+    padding: 1.9rem 2.7rem 0.407rem 2rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+    .sch-logo-2-keF {
+      margin-right: 0.9rem;
+      width: 3rem;
+      height: 2.8929rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .e-logbook-6CK {
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0.007rem 18.6rem 0rem 0rem;
+      font-size: 1.4rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      color: #0e4120;
+      font-family: Inter, 'Source Sans Pro';
+    }
+    .vector-ocX {
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-top: 0.1071rem;
+      width: 1.3rem;
+      height: 1rem;
+      cursor: pointer;
+    }
+  }
+  .welcome-vSF {
+    font-size: 1.6rem;
+    font-weight: 700;
+    line-height: 1.2125;
+    color: #072f14;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin-left: 2.1rem;
+  }
+  .auto-group-n8vp-et3 {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 1.6rem 2.7rem 4.466rem 1.9rem;
+
+    .add-students--yQX {
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      position: relative;
+      align-items: center;
+      margin-bottom: 4.7699rem;
+      box-sizing: border-box;
+      padding: 6.3rem 11rem;
+      width: 100%;
+      cursor: pointer;
+      overflow: hidden;
+      background-color: rgba(13, 196, 76, 0.6299999952);
+      border-radius: 2rem;
+
+      .add-students-tnP {
+        line-height: 1.2125;
+        color: #01260e;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 0.8rem;
+        font-size: 1.4rem;
+        font-weight: 700;
+      }
+      .vector-ciP {
+        height: 2.1301rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        width: 2.1875rem;
+      }
+    }
+    .view-students--jY7 {
+      width: calc(100% - 0.5rem);
+      cursor: pointer;
+      overflow: hidden;
+      position: relative;
+      align-items: center;
+      display: flex;
+      margin: 0rem 0.3rem 4.319rem 0.2rem;
+      padding: 6.7rem 10.4rem 6.7rem 10.4rem;
+      background-color: rgba(13, 196, 76, 0.6299999952);
+      border-radius: 2rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      flex-direction: column;
+
+      .view-students-d7h {
+        font-size: 1.4rem;
+        font-weight: 700;
+        line-height: 1.2125;
+        color: #01260e;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 0.4rem;
+      }
+      .vector-ZGF {
+        width: 3.2rem;
+        height: 2.1812rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+    .view-students-logbook-Uu1 {
+      overflow: hidden;
+      align-items: center;
+      flex-direction: column;
+      background-color: rgba(13, 196, 76, 0.6299999952);
+      border-radius: 2rem;
+      margin-right: 0.1rem;
+      padding: 6.3rem 9.2rem 6.3rem 9.2rem;
+      cursor: pointer;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      position: relative;
+      display: flex;
+
+      .view-students-log-CKD {
+        flex-shrink: 0;
+        margin-bottom: 0.6rem;
+        font-size: 1.4rem;
+        font-weight: 700;
+        line-height: 1.2125;
+        color: #01260e;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .vector-8Cs {
+        width: 2.5rem;
+        height: 2.4344rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+  }
+}

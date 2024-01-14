@@ -1,0 +1,127 @@
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.user-entry--b3h {
+  box-sizing: border-box;
+  padding: 26.1rem 10.3rem 27.6rem 10.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #425347 -0%, #335d42 100%);
+}
+.user-entry--b3h .sch-logo-3-KEb {
+  margin: 0rem 0rem 1.3rem 0.2rem;
+  width: 4rem;
+  height: 3.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.center{
+  width: 45%;
+  height: 530px;
+  border-radius: 50px;
+  background: rgba(247, 253, 249, 0.2599999905);
+  flex: 1;
+  margin-left: 9%;
+  margin-right: 10%;
+  box-sizing: border-box;
+}
+
+.user-entry--b3h .e-logbook-eGs {
+  margin-bottom: 3.6rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #04230e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-entry--b3h .student-button-kao {
+  margin-bottom: 1.3rem;
+  box-sizing: border-box;
+  padding: 2.3rem 9.7rem 2.25rem 5.4rem;
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #99d1ac;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.user-entry--b3h .student-button-kao .student-sfR {
+  margin-right: 0.6rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #0e4120;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor:pointer;
+}
+.user-entry--b3h .student-button-kao .icons8-enter-50-4-CBu {
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: center;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-entry--b3h .staff-button-62P {
+  box-sizing: border-box;
+  padding: 2.3rem 9.7rem 2.25rem 5.4rem;
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #99d1ac;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.user-entry--b3h .staff-button-62P .staff-d2K {
+  margin: 0.05rem 0.4rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #0e4120;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-entry--b3h .staff-button-62P .icons8-enter-50-5-8zf {
+  margin-bottom: 0.05rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+a{
+  text-decoration: none;
+}
+@media screen and (max-width: 600px) {
+  body,.user-entry--b3h,.student-button-kao, .staff-button-62P,.center{
+    width: 100%;
+  }
+}

@@ -1,0 +1,310 @@
+
+html {
+	font-size:65.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}
+.staff-dashboard--VCX {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #99d1ac;
+}
+.staff-dashboard--VCX .auto-group-q2ct-qGP {
+  margin-bottom: 3.3rem;
+  box-sizing: border-box;
+  padding: 1.9rem 2.7rem 0.407rem 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #597662;
+  flex-shrink: 0;
+}
+.staff-dashboard--VCX .auto-group-q2ct-qGP .sch-logo-2-keF {
+  margin-right: 0.9rem;
+  width: 3rem;
+  height: 2.8929rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.staff-dashboard--VCX .auto-group-q2ct-qGP .e-logbook-6CK {
+  margin: 0.007rem 18.6rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #0e4120;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.staff-dashboard--VCX .auto-group-q2ct-qGP .vector-ocX {
+  margin-top: 0.1071rem;
+  width: 1.3rem;
+  height: 1rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.staff-dashboard--VCX .welcome-vSF {
+  margin-left: 2.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #072f14;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.staff-dashboard--VCX .auto-group-n8vp-et3 {
+  box-sizing: border-box;
+  padding: 1.6rem 2.7rem 4.466rem 1.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.staff-dashboard--VCX .auto-group-n8vp-et3 .add-students--yQX {
+  margin-bottom: 4.7699rem;
+  box-sizing: border-box;
+  padding: 6.3rem 11rem;
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #597662;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.staff-dashboard--VCX .auto-group-n8vp-et3 .add-students--yQX .add-students-tnP {
+  margin-bottom: 0.8rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #01260e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.staff-dashboard--VCX .auto-group-n8vp-et3 .add-students--yQX .vector-ciP {
+  width: 2.1875rem;
+  height: 2.1301rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.staff-dashboard--VCX .auto-group-n8vp-et3 .view-students--jY7 {
+  margin: 0rem 0.3rem 4.319rem 0.2rem;
+  box-sizing: border-box;
+  padding: 6.7rem 10.4rem 6.7rem 10.4rem;
+  width: calc(100% - 0.5rem);
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #597662;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.staff-dashboard--VCX .auto-group-n8vp-et3 .view-students--jY7 .view-students-d7h {
+  margin-bottom: 0.4rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #01260e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.staff-dashboard--VCX .auto-group-n8vp-et3 .view-students--jY7 .vector-ZGF {
+  width: 3.2rem;
+  height: 2.1812rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.staff-dashboard--VCX .auto-group-n8vp-et3 .view-students-logbook-Uu1 {
+  margin-right: 0.1rem;
+  box-sizing: border-box;
+  padding: 6.3rem 9.2rem 6.3rem 9.2rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #597662;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.staff-dashboard--VCX .auto-group-n8vp-et3 .view-students-logbook-Uu1 .view-students-log-CKD {
+  margin-bottom: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #01260e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.staff-dashboard--VCX .auto-group-n8vp-et3 .view-students-logbook-Uu1 .vector-8Cs {
+  width: 2.5rem;
+  height: 2.4344rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nav-bar{
+  width: 100%;
+  top: 0;
+  margin-bottom: 3.3rem;
+  box-sizing: border-box;
+  padding: 1.9rem 2.7rem 0.407rem 2rem;
+  display: flex;
+  align-items: center;
+  background-color: #597662;
+  flex-shrink: 0;
+}
+.logo{
+  float: left;
+  width: 20%;
+}
+.drop-cont{
+  display: none;
+}
+.nav{
+  float: right;
+  width: 80%;
+  text-align: end;
+}
+.fud-logo{
+  margin-top: 6px;
+  width:200%;
+  height:100%;
+}
+.nav ul{
+  margin-right: 20px;
+}
+.nav li{
+  display: inline;
+  font-family:  sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  margin-left: 5px;
+  margin-right: 5px;
+  position: relative;
+  top: 38px;
+}
+.nav li a{
+  text-decoration: none;
+  color: #0e4120;
+  padding: 20px 15px 15px 15px;
+  border-radius: 12px 12px 0px 0px;
+  transition: 0.5s;
+
+}
+.nav li a:hover{
+  padding: 20px 15px 15px 15px;
+  border-radius: 12px 12px 0px 0px;
+  background: rgba(217, 217, 217, 0.35);
+  transition: 0.5s;
+}
+.nav ul li .active{
+  border-radius: 12px 12px 0px 0px;
+  padding: 20px 15px 15px 15px;
+  color: #1B7B3C;
+  background: #0e4120;
+  transition: 0.5s;
+}
+.sch-name2{
+  color: #0e4120;
+  font-family:  Sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: relative;
+  left: 110px;
+  top: -73px;
+}
+#bars{
+  display: none;
+}
+.log{
+  color: #0e4120;
+  font-family:  Sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  position: relative;
+  left: 110px;
+  top: -73px;
+}
+@media (max-width:800px){
+  html{
+    height: 70px;
+}
+.drop-cont ul li{
+display: block;
+padding-top: 30px;
+}
+.drop-cont {
+display: none;
+position: absolute;
+top: 70px;
+right: 0;
+background-color: #069642f1;
+min-width: 160px;
+height: 100vh;
+padding: 12px 16px;
+z-index: 1;
+} 
+.drop:hover .drop-cont {
+display: block;
+}
+.nav li{
+display: none;
+}
+#bars{
+display: inline;
+}
+}
+.button {
+  display: block;
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #0e4120;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}

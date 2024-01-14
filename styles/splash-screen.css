@@ -1,0 +1,85 @@
+
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.splash-screen-wxo {
+  box-sizing: border-box;
+  padding: 15.417rem 6.218rem 16.394rem 6.849rem;
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #425347 -0%, #335d42 100%);
+}
+.splash-screen-wxo .union-rK5 {
+  margin-bottom: 9.276rem;
+  width: 19.93rem;
+  height: 5.9072rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.union-rK5{
+  display: block;
+  padding: 10px 20px;
+  font-size: 29px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+}
+.splash-screen-wxo .sch-logo-1-yuV {
+  margin: 0rem 0.63rem 4.232rem 0rem;
+  width: 11.2rem;
+  height: 10.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.splash-screen-wxo .union-VN3 {
+  margin-right: 0.3567rem;
+  width: 10.7936rem;
+  height: 1.8744rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.union-VN3{
+  display: block;
+  padding: 10px 20px;
+  font-size: 35px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+}
+.button {
+  display: block;
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}

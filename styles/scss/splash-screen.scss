@@ -1,0 +1,53 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.splash-screen-wxo {
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #3be073 -0%, #0e4120 100%);
+  width: 100%;
+  padding: 19.417rem 8.218rem 22.394rem 8.849rem;
+  cursor: pointer;
+  box-sizing: border-box;
+
+  .union-rK5 {
+    flex-shrink: 0;
+    margin-bottom: 9.276rem;
+    width: 18.9327rem;
+    height: 5.9072rem;
+    object-fit: contain;
+    vertical-align: top;
+  }
+  .sch-logo-1-yuV {
+    flex-shrink: 0;
+    margin: 0rem 0.63rem 4.232rem 0rem;
+    width: 11.2rem;
+    height: 10.8rem;
+    object-fit: cover;
+    vertical-align: top;
+  }
+  .union-VN3 {
+    flex-shrink: 0;
+    margin-right: 0.3567rem;
+    width: 10.7936rem;
+    height: 5.8744rem;
+    object-fit: contain;
+    vertical-align: top;
+  }
+}

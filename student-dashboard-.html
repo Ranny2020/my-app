@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>Student Dashboard </title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans%3A700"/>
+  <link rel="stylesheet" href="./styles/student-dashboard-.css"/>
+</head>
+<body>
+<div class="student-dashboard--D4w">
+  
+  <div class="auto-group-3q9h-Mgw">
+    <img class="sch-logo-2-HqV" src="./assets/sch-logo-2-aEw.png"/>
+    <p class="e-logbook-EVq">e-Logbook</p>
+  </div>
+  <div class="auto-group-m3fr-gMq">
+    <div class="auto-group-fgxb-19D">
+      <div class="auto-group-d8dh-jb1">
+        <div class="auto-group-tdat-SEX">
+          <div class="auto-group-eagb-n3V">15</div>
+          <div class="auto-group-yxmd-RMM">JAN</div>
+        </div>
+        <div class="auto-group-zgdr-h3y">
+          <p class="monday-dCX">Monday</p>
+          <p class="item-8-34-kY3" id="clock">8:34</p>
+        </div>
+      </div>
+      <div class="auto-group-fw7m-ZVV">
+        <div class="auto-group-d3nb-iNP">
+          <div class="auto-group-abf1-GPu">
+            <p class="welcome-CYT">
+            Welcome 
+            <br/>
+            
+            </p>
+            <p class="rahimat-XKq">Rahimat</p>
+          </div>
+          <a href="student-profile-.html">
+          <img class="vector-3Z5" src="./assets/vector-F6B.png"/>
+          </a>
+        </div>
+        <div class="clock-in-button-BvB">
+          <p class="clock-in-JV1"> Clock In</p>
+          <img class="icons8-enter-50-3-qzj" src="./assets/icons8-enter-50-3-K6s.png"/>
+        </div>
+      </div>
+    </div>
+    <div class="activities-MCP">
+      <div class="frame-9-hX9">
+        <img class="vector-cu1" src="./assets/vector-q55.png"/>
+        
+        <p class="day tuesday-kEX" onclick="this.style.backgroundColor = 'black'; 
+        this.style.color = 'white';">Tuesday</p>
+        <p class="day wednesday-rHZ" onclick="this.style.backgroundColor = 'black'; 
+        this.style.color = 'white';">Wednesday</p>
+        <p class="day thursday-BKq" onclick="this.style.backgroundColor = 'black'; 
+        this.style.color = 'white';">Thursday</p>
+        <p class="day friday-Wd1" onclick="this.style.backgroundColor = 'black'; 
+        this.style.color = 'white';">Friday</p>
+        <p class="day today-eDR" onclick="this.style.backgroundColor = 'black'; 
+        this.style.color = 'white';">Today</p>
+        
+      </div>
+      <div class="auto-group-7ndq-acs">
+        <p class="activities-ttT">Activities</p>
+        <div class="auto-group-lqrr-db9">
+          <p class="clock-in-M1M">Clock In</p>
+          <div class="frame-12-gZR">
+            <p class="item-8-32-RG7">8:32</p>
+            <p class="am-x19">am</p>
+          </div>
+        </div>
+        <div class="auto-group-8hfr-TTh">
+          <p class="clock-out-BPh">Clock Out</p>
+          <div class="auto-group-b2so-i8j">
+            <p class="item-0-00-SaX">0:00</p>
+            <p class="am-m71">AM</p>
+          </div>
+        </div>
+        <p class="task-assigned-5dV">Task assigned</p>
+        <textarea name="message" class="message" rows="10" cols="20">
+          write Your text here...
+          </textarea>
+        <div class="auto-group-ewzm-1n3">
+          <div class="frame-11-rXm">
+            <input type="file" id="fileUpload" name="fileUpload" onchange="displayFile(this);" />
+            <span id="upload"></span>
+          </div>
+          
+        </div>
+        <p class="task-done-W6X">Task done</p>
+          <textarea name="message" class="message" rows="10" cols="20">
+          write Your text here...
+          </textarea>
+          <div class="auto-group-iscx-3cF">
+            <div class="frame-10-gQK">
+              <input type="file" id="fileInput" name="fileInput" onchange="displayFile(this);" />
+              <span id="fileDisplayArea"></span>
+            </div>
+            
+        </div>
+          <button type="submit" class="clock-out-button--vpT" onclick="alert('Are you sure!')">
+            <a href="student-user.html">
+            <span class="clock-out-dD5">Clock out</span>
+          <img class="icons8-enter-50-3-Mes" src="./assets/icons8-enter-50-3-qgo.png"/>
+          </a>
+          </button>
+      </div>
+    </div>
+      <button type="submit" class="save-button-qK9" onclick="alert('Successfully saved')">
+        <span class="save-Lmh">Save</span>
+      <img class="icons8-enter-50-3-tHR" src="./assets/icons8-enter-50-3.png"/>
+      </button>
+    </div>
+      <a href="bars.html" class="button">Continue</a>
+</div>
+</body>
+<script>
+  function updateTime(){
+    var now = new Date();
+    var hours = now.getHours();
+    var minutes = now.getMinutes();
+    var seconds = now.getSeconds();
+    var timeString = hours + ":" + minutes + ":" + seconds;
+
+    document.getElementById("clock").innerHTML = timeString;
+  }
+  setInterval(updateTime,1000);
+  function displayFile(input) {
+    var fileDisplayArea = document.getElementById('fileDisplayArea');
+    if (input.files && input.files[0]) {
+        var reader = new FileReader();
+        reader.onload = function(e) {
+            fileDisplayArea.innerText = input.files[0].name;
+            if (input.files[0].type.startsWith('image/')) {
+                var img = document.createElement('img');
+                img.src = e.target.result;
+                fileDisplayArea.innerHTML = '';
+                fileDisplayArea.appendChild(img);
+            }
+        };
+        reader.readAsDataURL(input.files[0]);
+    }
+ }
+ function displayFile(Upload) {
+    var upload = document.getElementById('upload');
+    if (Upload.files && Upload.files[0]) {
+        var reader = new FileReader();
+        reader.onload = function(e) {
+            upload.innerText = Upload.files[0].name;
+            if (Upload.files[0].type.startsWith('image/')) {
+                var img = document.createElement('img');
+                img.src = e.target.result;
+                upload.innerHTML = '';
+                upload.appendChild(img);
+            }
+        };
+        reader.readAsDataURL(input.files[0]);
+    }
+}
+
+
+</script>

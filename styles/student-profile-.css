@@ -1,0 +1,248 @@
+
+  p {
+      font-size: 12px;
+  }
+
+html {
+	font-size:65.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}
+.student-profile--Chh {
+  width: 100%;
+  height: 77.9rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #99d1ac;
+}
+.student-profile--Chh .auto-group-zmby-LZ1 {
+  box-sizing: border-box;
+  padding: 1.9rem 2rem 0.407rem 2rem;
+  width: 36rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #536b5a;
+}
+.student-profile--Chh .auto-group-zmby-LZ1 .sch-logo-2-SM9 {
+  margin-right: 0.9rem;
+  width: 3rem;
+  height: 2.8929rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.student-profile--Chh .auto-group-zmby-LZ1 .e-logbook-NVh {
+  margin: 0.007rem 18.6rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #284e35;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.student-profile--Chh .auto-group-zmby-LZ1 .icons8-return-32-1-V4X {
+  margin-bottom: 0.0929rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.student-profile--Chh .vector-ob1 {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 13.7rem;
+  top: 10.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.student-profile--Chh .rahimat-taiwo-ohunene-YYb {
+  width: 16.6rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 2rem;
+  top: 21.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #01260e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.student-profile--Chh .fcp-csc-18-1023-ebd {
+  width: 12.6rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 2rem;
+  top: 27.2rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #01260e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.student-profile--Chh .kano-kuZ {
+  width: 3.6rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 2rem;
+  top: 33.1rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #01260e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.student-profile--Chh .dr-ibrahim-yakubu-FLX {
+  width: 12.6rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 2rem;
+  top: 39rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #01260e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.student-profile--Chh .name-7tX {
+  width: 2.9rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 2rem;
+  top: 19.6rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: rgba(7, 47, 20, 0.4600000083);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.student-profile--Chh .registration-nunber-BtP {
+  width: 9.9rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 2rem;
+  top: 25.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: rgba(7, 47, 20, 0.4600000083);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.student-profile--Chh .siwes-industy-location-2u1 {
+  width: 11.4rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 2rem;
+  top: 31.4rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: rgba(7, 47, 20, 0.4600000083);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.student-profile--Chh .supervisors-name-X55 {
+  width: 9.1rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 2rem;
+  top: 37.3rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: rgba(7, 47, 20, 0.4600000083);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.student-profile--Chh .auto-group-zdjy-csD {
+  box-sizing: border-box;
+  padding: 6.9rem 2rem 16.6rem 2rem;
+  width: 36rem;
+  height: 37.2rem;
+  position: absolute;
+  left: 0;
+  top: 40.7rem;
+  align-items: center;
+  flex-direction: column;
+}
+.student-profile--Chh .auto-group-zdjy-csD .view-logbook-button-v7D {
+  margin: 0rem 7.5rem 5.5rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 1.7rem;
+  width: calc(100% - 7.5rem);
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border: solid 0.2rem #1b7b3b;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.student-profile--Chh .auto-group-zdjy-csD .view-logbook-button-v7D .view-students-log-RJs {
+  margin-right: 7.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #01260e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.student-profile--Chh .auto-group-zdjy-csD .view-logbook-button-v7D .vector-wo1 {
+  margin-top: 0rem;
+  width: 0.8rem;
+  height: 1.2396rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.student-profile--Chh .auto-group-zdjy-csD .if-you-notice-any-mistake-or-need-corrections-in-your-profile-send-us-a-matl-at-ict-fudgmailcom-r9H {
+  margin-right: 1.4rem;
+  max-width: 17.9rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: rgba(7, 47, 20, 0.9399999976);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.student-profile--Chh .auto-group-zdjy-csD .if-you-notice-any-mistake-or-need-corrections-in-your-profile-send-us-a-matl-at-ict-fudgmailcom-r9H .if-you-notice-any-mistake-or-need-corrections-in-your-profile-send-us-a-matl-at-ict-fudgmailcom-r9H-sub-1 {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: rgba(7, 47, 20, 0.9399999976);
+  font-family: Inter, 'Source Sans Pro';
+}
+@media screen and (max-width: 600px) {
+  .html,.student-profile--Chh,body,.auto-group-zmby-LZ1{
+    width: 100%;
+  }
+}
+a{
+  text-decoration: none;
+}

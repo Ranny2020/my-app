@@ -1,0 +1,110 @@
+
+html {
+	font-size:65.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.about--8Jo {
+  box-sizing: border-box;
+  padding-bottom: 14.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #99d1ac;
+}
+.about--8Jo .auto-group-mjv3-FeK {
+  margin-bottom: 4.2rem;
+  box-sizing: border-box;
+  padding: 1.9rem 2rem 0.407rem 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #597662;
+  flex-shrink: 0;
+}
+.about--8Jo .auto-group-mjv3-FeK .sch-logo-2-mcf {
+  margin-right: 0.9rem;
+  width: 3rem;
+  height: 2.8929rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about--8Jo .auto-group-mjv3-FeK .e-logbook-6ew {
+  margin: 0.007rem 18.6rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #0e4120;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about--8Jo .auto-group-mjv3-FeK .icons8-return-32-1-opF {
+  margin-bottom: 0.0929rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about--8Jo .about-8Lj {
+  margin: 0rem 0.3rem 1.4rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: rgba(7, 47, 20, 0.9700000286);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about--8Jo .the-student-industrial-work-experience-scheme-siwes-was-established-by-the-industrial-training-fund-itf-in-1973-the-scheme-was-initiated-to-address-the-problem-of-inadequate-practical-skills-among-graduates-of-tertiary-institutions-in-nigeria-which-was-affecting-their-employability-in-industries-the-scheme-was-designed-to-expose-and-prepare-students-of-universities-polytechnics-and-colleges-of-education-for-the-industrial-work-situation-they-would-encounter-after-graduation-it-provides-students-with-the-opportunity-to-handle-and-manage-equipment-and-machinery-that-are-usually-not-available-in-their-institutions-if-you-notice-any-mistake-or-need-corrections-in-your-profile-send-us-a-mail-at-ict-fudgmailcom-FAT {
+  margin: 0rem 0rem 26.6rem 0.1rem;
+  max-width: 29.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2022535276;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about--8Jo .frame-14-bX9 {
+  margin: 0rem 13.2rem 0rem 13rem;
+  width: calc(100% - 26.2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about--8Jo .frame-14-bX9 .e-logbook-81H {
+  margin: 0rem 0.1rem 0.2rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: rgba(14, 65, 32, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about--8Jo .frame-14-bX9 .version-001-SGs {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: rgba(14, 65, 32, 0.8299999833);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

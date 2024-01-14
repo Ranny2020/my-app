@@ -1,0 +1,141 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.student-user-YqR {
+  box-sizing: border-box;
+  padding: 8.3rem 2rem 12.6rem 1.9rem;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  background: linear-gradient(180deg, #3be073 -0%, #0e4120 100%);
+
+  .sch-logo-2-H2K {
+    margin-left: 0.1rem;
+    width: 4rem;
+    height: 3.8rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+  .e-logbook-caP {
+    flex-shrink: 0;
+    margin: 0rem 0.1rem 6.5rem 0rem;
+    font-size: 1.6rem;
+    font-weight: 700;
+    line-height: 1.2125;
+    color: #0e4120;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+  }
+  .auto-group-kkat-LFV {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(247, 253, 249, 0.2599999905);
+    border-radius: 2rem;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 6rem 1.5rem 9rem 1.6rem;
+    width: 100%;
+
+    .registration-number-FtF {
+      flex-shrink: 0;
+      margin: 0rem 0rem 1.1rem 0.1rem;
+      font-size: 1.4rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      color: #01260e;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .auto-group-pehr-BX1 {
+      box-sizing: border-box;
+      border-radius: 1rem;
+      font-family: Inter, 'Source Sans Pro';
+      margin-bottom: 3.2rem;
+      padding: 1.2rem 1.5rem 1.6rem 1.5rem;
+      width: 28.9rem;
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      color: rgba(7, 47, 20, 0.4600000083);
+      white-space: nowrap;
+      background-color: rgba(217, 217, 217, 0.4199999869);
+      flex-shrink: 0;
+    }
+    .password-M47 {
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0rem 0rem 1.1rem 0.1rem;
+      font-size: 1.4rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      color: #01260e;
+      font-family: Inter, 'Source Sans Pro';
+    }
+    .auto-group-cprd-GB5 {
+      white-space: nowrap;
+      background-color: rgba(217, 217, 217, 0.4199999869);
+      border-radius: 1rem;
+      box-sizing: border-box;
+      width: 28.9rem;
+      line-height: 1.2125;
+      color: rgba(7, 47, 20, 0.4600000083);
+      font-family: Inter, 'Source Sans Pro';
+      margin: 0rem 0rem 9.4rem 0.1rem;
+      padding: 1.2rem 1.8rem 1.6rem 1.8rem;
+      font-size: 1rem;
+      font-weight: 700;
+      flex-shrink: 0;
+    }
+    .login-button-iYs {
+      width: calc(100% - 15.2rem);
+      cursor: pointer;
+      position: relative;
+      align-items: center;
+      border: solid 0.2rem #1b7b3b;
+      margin: 0 7.6rem;
+      padding: 0.9rem 4.4rem;
+      overflow: hidden;
+      display: flex;
+      background-color: rgba(229, 241, 233, 0.7300000191);
+      border-radius: 0.7rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+
+      .login-ceF {
+        font-weight: 700;
+        line-height: 1.2125;
+        color: #0e4120;
+        font-family: Inter, 'Source Sans Pro';
+        flex-shrink: 0;
+        margin-right: 0.2rem;
+        display: flex;
+        font-size: 1.2rem;
+        white-space: nowrap;
+      }
+      .icons8-enter-50-4-YXu {
+        width: 1.5rem;
+        height: 1.5rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+  }
+}
